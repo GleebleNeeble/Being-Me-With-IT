@@ -17,3 +17,6 @@ You can also use the settings section of the Zoom app to **select which skin ton
 A Slack admin (probably within your IT team) will need to add pronoun and name pronunciation fields for them to be available in your workplace. Slack have a guide [here](https://slack.com/intl/en-gb/help/articles/212281478-Customise-member-profiles) on how to do so.
 
 **You can also select the skin tone for your slackmojis** by clicking on the "reaction" button to a post to open the slackmoji window and clicking the hand icon in the bottom right hand corner of that window.
+
+
+###### [Home](https://github.com/GleebleNeeble/BeingMeWithIT/blob/gh-pages/index.md)
