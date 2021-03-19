@@ -1,4 +1,4 @@
-###### [Home](https://gleebleneeble.github.io/BeingMeWithIT/)
+###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
 
 
 # Auto-captioning
@@ -11,4 +11,4 @@ Zoom contains a setting which you can enable to provide auto-captioning for your
 
 Some very cool folks run the site [https://webcaptioner.com/](https://webcaptioner.com/) which provides a free closed caption tool for calls and events. They are funded exclusively by donations.
 
-###### [Home](https://gleebleneeble.github.io/BeingMeWithIT/)
+###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
