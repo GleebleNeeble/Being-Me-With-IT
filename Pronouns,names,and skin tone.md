@@ -4,7 +4,7 @@
 
 **Customising your Zoom display name** is a great way to incorporate preferred names and pronouns into your online profile. 
 
-The easiest way to do that in a browser is to log on to [zoom](https://zoom.us/) via and then navigate to your [Zoom profile page](https://zoom.us/profile).
+The easiest way to do that in a browser is to log on to [zoom](https://zoom.us/) and then navigate to your [Zoom profile page](https://zoom.us/profile).
 
 Otherwise - you can open the Zoom app and go to the preferences menu by clicking on your profile pic in the top right of your Zoom app window.
 
