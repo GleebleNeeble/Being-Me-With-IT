@@ -1,4 +1,4 @@
-# BeingMeWithIT
+# Being Me With IT
 
 The idea behind this project is to make using computers more accessible for everyone. 
 
