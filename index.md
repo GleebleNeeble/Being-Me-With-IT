@@ -10,12 +10,12 @@ It's worth checking out the features that your computer might have built-in. For
 - [Ubuntu](https://help.ubuntu.com/community/Accessibility)
 
 ## More things that could be easier
-### Pronouns, names, and skin tone
-### Reading text
-### Auto-captioning
-### Task management and focus
+- Pronouns, names, and skin tone
+- Reading text
+- Auto-captioning
+- Task management and focus
 
 
 ## Resources for IT admins
-### Name and email changes
-### Making tech support accessible
+- Name and email changes
+- Making tech support accessible
