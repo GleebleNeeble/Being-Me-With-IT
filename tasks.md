@@ -1,4 +1,4 @@
-###### [Home](https://gleebleneeble.github.io/BeingMeWithIT/)
+###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
 
 
 # Task management and Focus
@@ -13,4 +13,4 @@ If you find motivation and management of distractions to be a factor then invest
 
 For some folks, having a to-do list is enough to create a sense of accomplishment, in which case it's worth making use of [Google's Keep app](https://keep.google.com/) as you can easily access it and share it with others if needed.
 
-###### [Home](https://gleebleneeble.github.io/BeingMeWithIT/)
+###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
