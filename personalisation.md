@@ -1,4 +1,4 @@
-###### [Home](https://gleebleneeble.github.io/BeingMeWithIT/)
+###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
 
 # Pronouns, names, and skin tone
 
@@ -21,4 +21,4 @@ A Slack admin (probably within your IT team) will need to add pronoun and name p
 **You can also select the skin tone for your slackmojis** by clicking on the "reaction" button to a post to open the slackmoji window and clicking the hand icon in the bottom right hand corner of that window.
 
 
-###### [Home](https://gleebleneeble.github.io/BeingMeWithIT/)
+###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
