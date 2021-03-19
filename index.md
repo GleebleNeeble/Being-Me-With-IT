@@ -11,11 +11,11 @@ It's worth checking out the features that your computer might have built-in. For
 
 ## More things that could be easier
 - [Pronouns, names, and skin tone](https://github.com/GleebleNeeble/BeingMeWithIT/blob/gh-pages/personalisation.md)
-- Reading text
-- Auto-captioning
-- Task management and focus
+- [Reading text](https://github.com/GleebleNeeble/BeingMeWithIT/blob/gh-pages/readability.md)
+- [Auto-captioning](https://github.com/GleebleNeeble/BeingMeWithIT/blob/gh-pages/autocaptioning.md)
+- [Task management and focus](https://github.com/GleebleNeeble/BeingMeWithIT/blob/gh-pages/tasks.md)
 
 
 ## Resources for IT admins
-- Name and email changes
-- Making tech support accessible
+- Name and email changes *(content coming soon)*
+- Making tech support accessible *(content coming soon)*
