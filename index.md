@@ -10,7 +10,7 @@ It's worth checking out the features that your computer might have built-in. For
 - [Ubuntu](https://help.ubuntu.com/community/Accessibility)
 
 ## More things that could be easier
-- [Pronouns, names, and skin tone](https://github.com/GleebleNeeble/BeingMeWithIT/edit/gh-pages/Pronouns,names,and skin tone.md)
+- [Pronouns, names, and skin tone](https://github.com/GleebleNeeble/BeingMeWithIT/blob/gh-pages/personalisation.md)
 - Reading text
 - Auto-captioning
 - Task management and focus
