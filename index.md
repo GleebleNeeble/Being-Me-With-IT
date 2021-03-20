@@ -10,10 +10,10 @@ It's worth checking out the features that your computer might have built-in. For
 - [Ubuntu](https://help.ubuntu.com/community/Accessibility)
 
 ## More things that could be easier
-- [Pronouns, names, and skin tone](https://gleebleneeble.github.io/BeingMeWithIT/personalisation)
-- [Reading text](https://gleebleneeble.github.io/BeingMeWithIT/readability)
-- [Auto-captioning](https://gleebleneeble.github.io/BeingMeWithIT/autocaptioning)
-- [Task management and focus](https://gleebleneeble.github.io/BeingMeWithIT/tasks)
+- [Pronouns, names, and skin tone](https://gleebleneeble.github.io/Being-Me-With-IT/personalisation)
+- [Reading text](https://gleebleneeble.github.io/Being-Me-With-IT/readability)
+- [Auto-captioning](https://gleebleneeble.github.io/Being-Me-With-IT/autocaptioning)
+- [Task management and focus](https://gleebleneeble.github.io/Being-Me-With-IT/tasks)
 
 
 ## Resources for IT admins
