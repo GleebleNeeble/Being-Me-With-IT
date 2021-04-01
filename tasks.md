@@ -13,4 +13,8 @@ If you find motivation and management of distractions to be a factor then invest
 
 For some folks, having a to-do list is enough to create a sense of accomplishment, in which case it's worth making use of [Google's Keep app](https://keep.google.com/) as you can easily access it and share it with others if needed.
 
+## Reducing email bombardment
+
+If you're a member of several (or simply noisy) Google groups then you can dramatically reduce the number of emails to your inbox by navigating to the offending groups in [groups.google.com](http://groups.google.com) and changing the subscription drop-down in *membership settings* to send you a summary of emails instead of every one.
+
 ###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
