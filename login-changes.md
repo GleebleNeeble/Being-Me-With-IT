@@ -15,7 +15,7 @@ This is not intended to scare users away from asking for their name to be change
 
 ###OneLogin
 
-It's fairly trivial to change the primary email and name of a user in their OneLogin profile. That said - 
+It's fairly trivial to change the primary email and name of a user in their OneLogin profile. That said - pay attention to your underlying directory setup, for example, name and email changes made in 
 
 
 ###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
