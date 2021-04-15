@@ -17,4 +17,4 @@ It's worth checking out the features that your computer might have built-in. For
 
 
 ## Resources for IT admins
-- Making tech support accessible *(content coming soon)*
+- Building for name changes **(content coming soon)**
