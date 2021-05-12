@@ -11,10 +11,10 @@ It's worth checking out the features that your computer might have built-in. For
 
 ## More things that could be easier
 - [Pronouns, names, and skin tone](https://gleebleneeble.github.io/Being-Me-With-IT/personalisation)
-- [Reading text](https://gleebleneeble.github.io/Being-Me-With-IT/readability)
-- [Auto-captioning](https://gleebleneeble.github.io/Being-Me-With-IT/autocaptioning)
-- [Task management and focus](https://gleebleneeble.github.io/Being-Me-With-IT/tasks)
+- [Reading text](https://gleeblezoid.github.io/Being-Me-With-IT/readability)
+- [Auto-captioning](https://gleeblezoid.github.io/Being-Me-With-IT/autocaptioning)
+- [Task management and focus](https://gleeblezoid.github.io/Being-Me-With-IT/tasks)
 
 
 ## Resources for IT admins
-- Building for name changes **(content coming soon)**
+- [Building for name changes](https://gleeblezoid.github.io/Being-Me-With-IT/login-changes) **(work in progress)**
