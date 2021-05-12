@@ -1,4 +1,4 @@
-###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
+###### [Home](https://gleeblezoid.github.io/Being-Me-With-IT/)
 
 
 # Task management and Focus
@@ -17,4 +17,4 @@ For some folks, having a to-do list is enough to create a sense of accomplishmen
 
 If you're a member of several (or simply noisy) Google groups then you can dramatically reduce the number of emails to your inbox by navigating to the offending groups in [groups.google.com](http://groups.google.com) and changing the subscription drop-down in *membership settings* to send you a summary of emails instead of every one.
 
-###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
+###### [Home](https://gleeblezoid.github.io/Being-Me-With-IT/)

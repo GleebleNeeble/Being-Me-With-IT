@@ -1,4 +1,4 @@
-###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
+###### [Home](https://gleeblezoid.github.io/Being-Me-With-IT/)
 
 # Building for name changes
 
@@ -20,4 +20,4 @@ It's fairly trivial to change the primary email and name of a user in their OneL
 As OneLogin uses OpenIDs as the main identifier for users it's way easier to make changes around that without breaking access.
 
 
-###### [Home](https://gleebleneeble.github.io/Being-Me-With-IT/)
+###### [Home](https://gleeblezoid.github.io/Being-Me-With-IT/)
