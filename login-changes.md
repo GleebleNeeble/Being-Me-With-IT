@@ -13,6 +13,8 @@ This is not intended to scare users away from asking for their name to be change
 
 ## Using your Identity Access Management System
 
+It should go without saying - but testing for how name changes work as part of your app integration process will make life a lot easier.
+
 ### OneLogin
 
 It's fairly trivial to change the primary email and name of a user in their OneLogin profile. That said - pay attention to your underlying directory setup, for example, name and email changes made in a synced Google directory will be reflected in OneLogin. 
