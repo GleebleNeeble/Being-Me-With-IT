@@ -21,5 +21,5 @@ It's worth checking out the features that your computer might have built-in. For
 - [Building for name changes](https://gleeblezoid.github.io/Being-Me-With-IT/login-changes) **(work in progress)**
 
 ## Sites and resources dedicated to accessible computers
--[AbilityNet](https://abilitynet.org.uk/) - a fantastic site for information on how to customise your machine, training on accessibility, and provision for folks who struggle with tech to get IT support.
+- [AbilityNet](https://abilitynet.org.uk/) - a fantastic site for information on how to customise your machine, training on accessibility, and provision for folks who struggle with tech to get IT support.
 - [No isolation](https://www.noisolation.com/uk/) - specifically tools to reduce isolation for folks who struggle with computers and for young people with chronic conditions which cause isolation.
